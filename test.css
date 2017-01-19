@@ -1,0 +1,56 @@
+#Header, #LeftNav, #Content, #Footer {
+	border: solid 6px blue;
+	text-align: center;
+}
+
+#LeftNav {
+	width: 400px;
+	float: left;
+	padding-bottom: 8px;
+}
+
+#Content {
+	width: 700px;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 15px;
+}
+
+#Header {
+	width: 500px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 10px;
+}
+
+ul {
+	list-style-type: none;
+	padding-left: 0px;
+}
+
+#Header h1 {
+	font-size: 60px; 
+	font-family: "Passion One";
+	color: #212790; 
+	font-weight: bold;
+}
+
+p {
+	color: white;
+	font-family: Arial;
+}
+
+h3 {
+	color: #FFBC00
+	font-size: 40px;
+	font-family: "Passion One";
+	margin-bottom: 0px;
+}
+
+div {
+	background-color: #BE41D5;
+}
+
+body {
+	background-image: url("dark_wood.jpg")
+}
